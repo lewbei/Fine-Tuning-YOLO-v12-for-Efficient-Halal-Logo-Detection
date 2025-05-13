@@ -1,0 +1,1 @@
+# Fine-Tuning-YOLO-v12-for-Efficient-Halal-Logo-Detection
